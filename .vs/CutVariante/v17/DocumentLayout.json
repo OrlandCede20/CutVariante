@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ORLAND\\source\\repos\\CutVariante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61E3F91B-94F9-4B29-BA8B-A15AF01A26B5}|CutVariante\\CutVariante.csproj|c:\\users\\orland\\source\\repos\\cutvariante\\cutvariante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E3F91B-94F9-4B29-BA8B-A15AF01A26B5}|CutVariante\\CutVariante.csproj|solutionrelative:cutvariante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E3F91B-94F9-4B29-BA8B-A15AF01A26B5}|CutVariante\\CutVariante.csproj|c:\\users\\orland\\source\\repos\\cutvariante\\cutvariante\\creargrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E3F91B-94F9-4B29-BA8B-A15AF01A26B5}|CutVariante\\CutVariante.csproj|solutionrelative:cutvariante\\creargrafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E3F91B-94F9-4B29-BA8B-A15AF01A26B5}|CutVariante\\CutVariante.csproj|c:\\users\\orland\\source\\repos\\cutvariante\\cutvariante\\calculocutwidth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E3F91B-94F9-4B29-BA8B-A15AF01A26B5}|CutVariante\\CutVariante.csproj|solutionrelative:cutvariante\\calculocutwidth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E3F91B-94F9-4B29-BA8B-A15AF01A26B5}|CutVariante\\CutVariante.csproj|c:\\users\\orland\\source\\repos\\cutvariante\\cutvariante\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E3F91B-94F9-4B29-BA8B-A15AF01A26B5}|CutVariante\\CutVariante.csproj|solutionrelative:cutvariante\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E3F91B-94F9-4B29-BA8B-A15AF01A26B5}|CutVariante\\CutVariante.csproj|c:\\users\\orland\\source\\repos\\cutvariante\\cutvariante\\arista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E3F91B-94F9-4B29-BA8B-A15AF01A26B5}|CutVariante\\CutVariante.csproj|solutionrelative:cutvariante\\arista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Archivo.cs",
+              "DocumentMoniker": "C:\\Users\\ORLAND\\source\\repos\\CutVariante\\CutVariante\\Archivo.cs",
+              "RelativeDocumentMoniker": "CutVariante\\Archivo.cs",
+              "ToolTip": "C:\\Users\\ORLAND\\source\\repos\\CutVariante\\CutVariante\\Archivo.cs",
+              "RelativeToolTip": "CutVariante\\Archivo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T21:04:22.388Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ORLAND\\source\\repos\\CutVariante\\CutVariante\\Program.cs",
+              "RelativeDocumentMoniker": "CutVariante\\Program.cs",
+              "ToolTip": "C:\\Users\\ORLAND\\source\\repos\\CutVariante\\CutVariante\\Program.cs",
+              "RelativeToolTip": "CutVariante\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T21:01:31.359Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculoCutWidth.cs",
+              "DocumentMoniker": "C:\\Users\\ORLAND\\source\\repos\\CutVariante\\CutVariante\\CalculoCutWidth.cs",
+              "RelativeDocumentMoniker": "CutVariante\\CalculoCutWidth.cs",
+              "ToolTip": "C:\\Users\\ORLAND\\source\\repos\\CutVariante\\CutVariante\\CalculoCutWidth.cs",
+              "RelativeToolTip": "CutVariante\\CalculoCutWidth.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T21:05:21.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrearGrafo.cs",
+              "DocumentMoniker": "C:\\Users\\ORLAND\\source\\repos\\CutVariante\\CutVariante\\CrearGrafo.cs",
+              "RelativeDocumentMoniker": "CutVariante\\CrearGrafo.cs",
+              "ToolTip": "C:\\Users\\ORLAND\\source\\repos\\CutVariante\\CutVariante\\CrearGrafo.cs",
+              "RelativeToolTip": "CutVariante\\CrearGrafo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T21:03:19.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Arista.cs",
+              "DocumentMoniker": "C:\\Users\\ORLAND\\source\\repos\\CutVariante\\CutVariante\\Arista.cs",
+              "RelativeDocumentMoniker": "CutVariante\\Arista.cs",
+              "ToolTip": "C:\\Users\\ORLAND\\source\\repos\\CutVariante\\CutVariante\\Arista.cs",
+              "RelativeToolTip": "CutVariante\\Arista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T21:01:50.099Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
